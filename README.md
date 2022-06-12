@@ -4,9 +4,11 @@ I'm `kd8lvt`, a freelance NodeJS nerd learning Unity and Java through modding so
 
 # Programming Goals
 
-  * Learn Java and FabricAPI - I have my Fabric repos tagged #java and #fabric
-  * Learn Unity through RimWorld and OddRealm modding - They are tagged #unity and #rimworld or #oddrealm
-  * Make my own game 👀
+  * Learn Java through Minecraft modding - Lists: `java` and `fabric` or `forge`
+  * Learn Unity through RimWorld and OddRealm modding - Lists: `unity` and `rimworld` or `oddrealm`
+  * Get better with Node - there's always more to learn! List: `javascript`
+  * Discord bots galore! List: `discord` and `bot`
+  * Long term: Make my own game 👀
 
 # Contact
 
