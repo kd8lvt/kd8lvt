@@ -4,10 +4,10 @@ I'm `kd8lvt`, a freelance NodeJS nerd learning Unity and Java through modding so
 
 # Programming Goals
 
-  * Learn Java through Minecraft modding - Lists: `java` and `fabric` or `forge`
-  * Learn Unity through RimWorld and OddRealm modding - Lists: `unity` and `rimworld` or `oddrealm`
-  * Get better with Node - there's always more to learn! List: `javascript`
-  * Discord bots galore! List: `discord` and `bot`
+  * Learn Java through Minecraft modding ................... Lists: `java`       | `fabric` or `forge`
+  * Learn Unity through RimWorld and OddRealm modding ...... Lists: `unity`      | `rimworld` or `oddrealm`
+  * Get better with Node - there's always more to learn .... Lists: `javascript` | `nodejs` or `web`
+  * Discord bots galore! ................................... Lists: `discord`    | `bot`
   * Long term: Make my own game 👀
 
 # Contact
