@@ -12,7 +12,7 @@ I'm `kd8lvt`, a freelance NodeJS nerd learning Unity and Java through modding so
 ```
 # Contact
 
-Want to contact me? Discord is the best way - `kd8lvt#5371`
+Want to contact me? Discord is the best way - `@kd8lvt`
 <!---
 kd8lvt/kd8lvt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
